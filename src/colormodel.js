@@ -26,6 +26,7 @@ let colortable = [
     // custom
     new Color('mycolor', '#cafe66', [202, 254, 102], true),
     new Color('academygreen', '#049a78', [4, 154, 120], true),
+    new Color('sovelto punainen', '#e72533', [231, 37, 51], true),
 ];
 
 
